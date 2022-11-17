@@ -4,7 +4,7 @@ Stealer in just 3 lines with sending to telegram.
 
 ## Description
 The `stink` already has an impressive functionality that will only expand.
-
+## NOTE : You dont run the exe, the victim does, the info gets sent to the telegram bot you have a convo with. 
 ## Navigation
 * [Current features](#Сurrent-features)
 * [Example usage](#Example-usage)
